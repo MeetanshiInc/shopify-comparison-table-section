@@ -1,0 +1,1 @@
+# shopify-comparison-table-section
